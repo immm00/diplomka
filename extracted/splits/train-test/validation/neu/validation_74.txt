@@ -1,1 +1,0 @@
-Robot projíždí po poli velmi pomalu rychlostí asi kilometr za hodinu a kontroluje rostliny.
