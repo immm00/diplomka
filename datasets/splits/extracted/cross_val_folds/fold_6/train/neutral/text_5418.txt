@@ -1,0 +1,1 @@
+Bitcoiny se těží pomocí výkonných počítačů, které jsou schopné analyzovat tzv. blockchain a hledat v něm určité řetězce znaků ve správném pořadí.

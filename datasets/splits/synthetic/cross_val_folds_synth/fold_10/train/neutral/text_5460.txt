@@ -1,0 +1,1 @@
+Mnoho firem ve světě používá cloudové služby k ukládání a zpracování dat.

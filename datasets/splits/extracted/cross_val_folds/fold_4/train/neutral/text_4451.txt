@@ -1,0 +1,1 @@
+Nemělo by být potřeba chodit kvůli každému „papíru“ na úřad, ale komunikace by měla probíhat elektronicky prostřednictvím klientského rozhraní Jenda.

@@ -1,0 +1,1 @@
+Spuštění aplikace eDoklady automaticky neznamená odložení plastových kartiček.

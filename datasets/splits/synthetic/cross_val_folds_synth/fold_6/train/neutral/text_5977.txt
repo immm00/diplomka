@@ -1,0 +1,1 @@
+Mnoho podniků využívá cloudové služby k ukládání a správě dat.

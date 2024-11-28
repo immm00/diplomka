@@ -1,0 +1,1 @@
+Navíc se snižuje se riziko překlepu při zadávání čísla účtu.

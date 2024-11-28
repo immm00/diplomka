@@ -1,1 +1,0 @@
-V kurýrské aplikaci se ukáže nabídka na rozvoz s určenou částkou, aplikace ale neukazuje detail částky, řekl.

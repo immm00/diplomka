@@ -1,0 +1,1 @@
+Při ztrátě telefonu se do systému nepřihlásí, neboť dvoufázové ověřování je vázané na mobilní číslo.

@@ -1,0 +1,1 @@
+Mobilní aplikace nabídne podle ředitele Mesršmída všechny služby Portálu. Navíc bude možné nechat si zasílat notifikace změn týkajících se uživatele přímo na mobil.

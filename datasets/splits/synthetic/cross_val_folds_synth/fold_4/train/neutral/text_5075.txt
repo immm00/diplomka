@@ -1,0 +1,1 @@
+Routing je jednou z technik používaných k optimalizaci síťového provozu.

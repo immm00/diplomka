@@ -1,0 +1,1 @@
+Příčinou výpadků bylo přetížení identifikačního prostředku NIA (Národní Identitní Autorita) sloužícího k elektronické identifikaci uživatelů. Kvůli tomu nebylo možné se do aplikace registrovat.

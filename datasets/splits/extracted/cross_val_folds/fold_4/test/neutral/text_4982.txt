@@ -1,0 +1,1 @@
+Klient si tedy bude muset nejprve vybrat, na který z jeho účtů půjde platbu na kontakt provádět.
