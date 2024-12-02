@@ -4,18 +4,14 @@ immm00@vse.cz
 
 Repository for diploma thesis files. 
 
-rule_based.ipynb - main notebook with rule_based approach
-Keras_DNN.ipynb	 - DNN implementation example
+rule_based.ipynb - main notebook with rule-based approach
+Keras_DNN.ipynb	 - DNN implementation example usage
 Keras_DNN_cross_val.ipynb - DNN implementation used for cross-validation
-ml-extracted.ipynb - SVM and Max Entropy for extracted dataset
-ml-synthetic.ipynb - SVM and Max Entropy for synthetic dataset
+classic_ml.ipynb - SVM and Max Entropy implementation
 articles - scraped articles
 datasets - datasets used in the notebooks
 text_resources - lexicons, shifters and others
 
-Contains datasets from HABERNAL, Ivan, PTÁČEK, Tomáš and STEINBERGER, Josef, 2013-06. Sentiment Analy-
-sis in Czech Social Media Using Supervised Machine Learning. In: BALAHUR, Alexandra,
-GOOT, Erik van der and MONTOYO, Andres (eds.). Proceedings of the 4th Workshop
-on Computational Approaches to Subjectivity, Sentiment and Social Media Analysis. At-
-lanta, Georgia: Association for Computational Linguistics, pp. 65–74. Available also from:
-https://aclanthology.org/W13-1609. Original source is https://corpora.kiv.zcu.cz/sentiment/.
+Contains datasets from Habernal et al. (2013) (https://nlp.kiv.zcu.cz/paper/show?paperId=192), downloaded from https://corpora.kiv.zcu.cz/sentiment/.
+
+Contains UDPipe model czech-pdt-ud-2.5-191206.udpipe. from Straka et al. (2017), downloaded from https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-3131.
